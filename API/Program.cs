@@ -46,6 +46,6 @@ app.UseStaticFiles();
 
 app.MapControllers();
 // Za Angular (client)
-//app.MapFallbackToController("Index", "Fallback");
+app.MapFallbackToController("Index", "Fallback");
 
 app.Run();

@@ -136,3 +136,5 @@ D:\CSharp\edunova\Biljeske\API\obj\Debug\net8.0\refint\API.dll
 D:\CSharp\edunova\Biljeske\API\obj\Debug\net8.0\API.pdb
 D:\CSharp\edunova\Biljeske\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 D:\CSharp\edunova\Biljeske\API\obj\Debug\net8.0\ref\API.dll
+D:\CSharp\edunova\Biljeske\API\obj\Debug\net8.0\API.sourcelink.json
+D:\CSharp\edunova\Biljeske\API\bin\Debug\net8.0\API.staticwebassets.runtime.json
